@@ -1,6 +1,10 @@
 # [Mini Project] APPLYING  APACHE DORIS IN REAL-TIME ANALYSIS
-<div style="margin-left: 170px;">Viettel Digital Talent 2024</div>
+<div style="margin-left: 665px;">- Viettel Digital Talent 2024</div>
 
+<br>
+
+<img src="./img/doris_logo.svg" alt="Apache Doris" width="500">
+<br><br>
 
 **Author**: Thanh Dinh  
 **Start date**: 29/05/2024  
